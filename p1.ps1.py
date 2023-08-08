@@ -1,7 +1,3 @@
-#Jason Zhang
-#JASZHANG
-#ID: 112920652
-
 param(
     [Parameter(Mandatory=$true)]
     [string]$processName
