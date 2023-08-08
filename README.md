@@ -1,4 +1,4 @@
-# kill-a-process---powershell
+# kill-a-process-powershell
 
 The script will do the following:
 1. Read a process name as a command-line argument
